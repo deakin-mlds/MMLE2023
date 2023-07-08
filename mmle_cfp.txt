@@ -1,0 +1,84 @@
+Greetings!
+ 
+Call for Papers
+Workshop at IEEE ICDM on Multimodal Machine Learning for Edge Devices (MMLE 2023)
+ 
+ 
+ 
+Workshop: December 4, 2023/ Shanghai, China
+https://deakin-mlds.github.io/MMLE2023/
+ 
+-----------------------------------------------------
+Important Dates
+-----------------------------------------------------
+ 
+Submissions: September 3rd, 2023
+Notifications: September 24th, 2023
+Camera-Ready Contributions: October 1st, 2023
+Final papers zip archive: October 1st, 2023
+Workshop: December 4, 2023
+ 
+ 
+All deadlines are 11:59 pm, AoE time (Anywhere on Earth).
+ 
+ 
+------------------------------------------------------
+Workshop Aims and Scope 
+------------------------------------------------------
+ 
+Modern Machine Learning (ML) algorithms require high computational power to be trained, tested, and deployed. Hence, cloud computing for machine learning has established itself as one of the solutions to train models on large-scale data but with uncomfortably large bills and issues related to sharing and releasing sensitive and private data. This is where edge machine learning (Edge ML) becomes an obvious alternative. Edge ML runs machine learning processes on individual devices or an environment closer to devices than the cloud, where data is often heterogenous and multimodal.
+ 
+The 1st International Workshop on Multimodal Machine Learning for Edge Devices (MMLE 2023) aims at providing a forum for researchers and professionals interested in Multimodal data and Edge Machine Learning, and in understanding, envisioning, and discussing the opportunities and challenges of edge machine learning. 
+ 
+-------------------------------------------------------
+Workshop Topics
+-------------------------------------------------------
+ 
+Recognizing the broad scope of the potential areas of interest, we look for original and high-quality submissions related to (but not limited to) the following topics:
+ 
+- Quality models for edge devices.
+- Data quality for Edge Machine Learning.
+- Edge Computing Architecture
+- Edge Computing and Communications Theories
+- Signal Processing in Edge Computing
+- Edge Access Networks & Systems
+- AI Enabled Edge Computing
+- Artificial Intelligence at the Edge
+- Machine Learning at the Edge
+- Secure, Reliable and Trusted Edge Computing and Communications
+ 
+ 
+-------------------------------------------------------
+Submission Details
+-------------------------------------------------------
+ 
+The submissions must be in English and using the IEEE 2-column template: https://www.ieee.org/conferences/publishing/templates.html. The papers should be submitted as PDF files to Cyberchair system (https://wi-lab.com/cyberchair/2023/icdm23/scripts/submit.php?subarea=S36&undisplay_detail=1&wh=/cyberchair/2023/icdm23/scripts/ws_submit.php). The review process will be single-blind. Please be aware that at least one author per paper must be registered and attend the workshop to present the work.
+
+ 
+Research papers should be clearly placed with respect to the state of the art and state the contribution of the proposal in the domain of application, even if presenting preliminary results. In particular, research papers should describe the methodology in detail, experiments should be repeatable, and a comparison with the existing approaches in the literature is encouraged.
+ 
+Each submitted paper must include an abstract up to 200 words and be no longer than 10 , in the IEEE 2-column format (including references, appendices, etc.).
+ 
+Each submission will be reviewed by three independent reviewers on the basis of relevance for the workshop, novelty/originality, significance, technical quality and correctness, quality and clarity of presentation, quality of references and reproducibility.
+ 
+Accepted workshop papers will be published on the IEEE ICDM 2023 web page. Please send the paper list and camera-ready PDFs. A number of selected papers will be invited to be extended and revised for a possible inclusion in a special issue of a journal (to be confirmed).
+
+ 
+ 
+---------------------------------------------------------
+Workshop Chairs
+---------------------------------------------------------
+ 
+- Mohamed Reda Bouadjenek - Deakin University (Australia)
+- Sunil Aryal - Deakin University (Australia)
+- Hakim Hacid - TII (UAE)
+- Muna Al-Hawawreh - Deakin University (Australia)
+ 
+ 
+-----------------------------------------------------------
+Contacts
+-----------------------------------------------------------
+ 
+For general enquiries on the workshop, please send an email to: reda.bouadjenek@deakin.edu.au
+ 
+ 
